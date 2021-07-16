@@ -62,9 +62,9 @@ html{
     margin-top: 16px !important;
 }
 
-#main {
+/* #main {
 
-}
+} */
 
 #header {
     height: 46px;
@@ -161,7 +161,7 @@ html{
     position: relative;
     margin-top: 46px;
     padding-top: 50%;
-    background: url('/assets/img/slider/chicago.jpg') top center / cover no-repeat;
+    background: url(https://www.w3schools.com/w3images/chicago.jpg) top center / cover no-repeat;
 }
 
 #slider .text-content{
@@ -185,9 +185,9 @@ html{
 }
 
 
-#content {
+/* #content {
 
-}
+} */
 
 #content .content-section {
     max-width: 800px;
