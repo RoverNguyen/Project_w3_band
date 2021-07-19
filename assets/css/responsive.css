@@ -5,6 +5,11 @@
 
 /* Tablet */
 @media (min-width: 46.25em ) and (max-width: 63.9375em){
+
+}
+
+/* Tablet and mobile */
+@media (max-width: 63.9375em){
     .tour-section .place-buy-btn {
         width: 100%;
         text-align: center;
@@ -17,10 +22,6 @@
 
 /* Mobile */
 @media (max-width: 46.1875em ){
-    .s-full-width {
-        width: 100% !important;
-    }
-
     .s-col-full {
         width: 100% !important;
     }
@@ -82,10 +83,5 @@
 
     .contact-section .contact-form{
         margin-top: 16px;
-    }
-
-    .tour-section .place-buy-btn {
-        width: 100%;
-        text-align: center;
     }
 }
